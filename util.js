@@ -1,7 +1,7 @@
 const DB_PROPERTIES = {
   // movie
   POSTER: '海报', // common
-  TITLE: '标题', // common
+  TITLE: 'BookName', // common
   RATING: '个人评分', // common
   RATING_DATE: '打分日期', // common
   COMMENTS: '我的短评', // common
